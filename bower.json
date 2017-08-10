@@ -1,0 +1,23 @@
+{
+  "name": "gulp",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "undefindKellen <1456025949@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "store2": "store#^2.5.1"
+  },
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}
